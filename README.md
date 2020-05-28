@@ -1,5 +1,4 @@
 # eLeaveDocs
-Documentation for eLeave application
 
 Welcome to the eLeave Documentation
 
