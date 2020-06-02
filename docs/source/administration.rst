@@ -9,6 +9,10 @@ dashboard
 This page will show the details of latest announcement created by admin and upcoming holiday, birthday, new joiner & leaver. There will be a long leave reminder information too.
 Admin able to manage announcement by create, edit and delete features.
 
+    .. image:: images/dashboard.png
+      :scale: 100%
+      :align: center
+
 leave setup
 ************
 

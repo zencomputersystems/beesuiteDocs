@@ -41,7 +41,17 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-master_doc = '/docs/index'
+master_doc = 'index'
+
+# -- Options for manual page output ---------------------------------------
+
+# One entry per manual page. List of tuples
+# (source start file, name, description, authors, manual section).
+man_pages = [
+    (master_doc, 'button', u'Button Documentation',
+     [author], 1)
+]
+
 
 # -- Options for HTML output -------------------------------------------------
 
