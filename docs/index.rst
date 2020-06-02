@@ -4,13 +4,16 @@
    contain the root `toctree` directive.
 
 ===========================================
-Welcome to eLeave Document's documentation!
+Welcome to eLeave's documentation!
 ===========================================
 
 
 
 .. toctree::
 
+   login
+   reset password
+   forgot password
    administration
    employee
 
