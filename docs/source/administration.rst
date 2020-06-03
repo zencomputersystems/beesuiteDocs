@@ -18,11 +18,19 @@ leave setup
 
 calendar profile setup
 ======================
-Create specific holiday and rest day for employee
+Create specific public holiday and rest day for employee.
 
 .. image:: images/calendar_profile.png
       :align: left
       :alt: Calendar profile overview
+
+There have fews feature as listed here:
+
+1. Create new calendar
+2. Edit calendar profile name, rest day & public holiday
+3. Delete calendar profile
+4. Assign user by using drag & drop individual or bulk
+5. Set as new default calendar profile
 
 
 working hour profile setup

@@ -11,6 +11,7 @@ Welcome to eLeave's documentation!
 
 .. toctree::
 
+   first time login
    login
    reset password
    forgot password

@@ -10,4 +10,4 @@ For user which has provided password, you're only required to click Activate. Fo
 
 .. image:: images/reset_password_local.png
       :align: left
-      :alt: Reset password (ad)
+      :alt: Reset password (local)
