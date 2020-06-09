@@ -4,14 +4,36 @@
 administration
 ===========================================
 
-dashboard
-**********
+admin dashboard
+***************
 This page will show the details of latest announcement created by admin and upcoming holiday, birthday, new joiner & leaver. There will be a long leave reminder information too.
 Admin able to manage announcement by create, edit and delete features.
 
 .. image:: images/dashboard.png
-      :align: left
       :alt: Dashboard overview
+
+
+1. Create announcement
+
+Click the Create New button to write new announcement.
+
+
+.. image:: images/create_announcement.png
+      :alt: Create announcement
+      :width: 400
+
+2. Edit announcement
+
+Click the edit icon of the selected announcement to do the changes.
+
+.. image:: images/edit_announcement.png
+      :alt: Edit announcement
+      :width: 400
+
+3. Delete 
+
+Click the delete icon to remove unwanted announcement.
+
 
 leave setup
 ************
@@ -21,7 +43,6 @@ calendar profile setup
 Create specific public holiday and rest day for employee.
 
 .. image:: images/calendar_profile.png
-      :align: left
       :alt: Calendar profile overview
 
 There have fews feature as listed here:

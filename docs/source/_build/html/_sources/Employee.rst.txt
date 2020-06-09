@@ -4,8 +4,8 @@
 employee
 ===========================================
 
-dashboard
-**********
+user dashboard
+**************
 This page will show the details of user leave application and latest announcement posted by admin. 
 User's annual, replacement, medical leave balance & upcoming holidays information will show in this page too.
 
