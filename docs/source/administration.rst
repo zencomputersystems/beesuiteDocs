@@ -78,6 +78,38 @@ Create & define master list for all type of leave
       :alt: Leave entitlement overview
 
 
+The default leave type & leave entitlement profile will be created after administration account signed up.
+Leave entitlement setup started after Edit Mode toggle button was turn ON. 
+
+1. Create new leave type & new leave entitlement profile
+
+Click on the Create New button to create new leave type abbreviation & leave type name. Then, click the Create button to proceed for leave entitlement profile creation.
+Enter profile name & entitlement description and click Add button to complete creation process.
+
+2. Add/edit/delete leave type & entitlement profile
+
+Click on the pencil icon at the overview page to Edit Data or Clone Existing Data.
+In Edit Data tab, you're able to edit leave type abbreviation & leave type name. Leave entitlement profile name & description can be edited and profile can be added or deleted.
+Click Save button to save all edited data.
+
+3. Leave type configuration
+
+Select the desired entitlement profile and configure the setting in the Leave Type Configuration tab.
+
+4. Leave Entitlement level
+
+Default level 1 is created automatically. You're able to edit the service year data, entitled day & bring forward value.
+You can create new level for senior and delete unwanted level data. 
+
+NOTE: 
+  At least one leave entitlement level must be saved
+
+5. Toggle Off Edit Mode
+
+Lastly, toggle off the Edit Mode button at the top right to save all the leave type configuration & leave entitlement level data.
+
+
+
 leave adjustment
 ================
 A section to edit and change the leave for selected employee
