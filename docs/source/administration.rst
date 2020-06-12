@@ -158,11 +158,29 @@ To enable edit mode, toggle the Edit Mode button at the top-right corner to ON. 
 
 Employee Setup
 **************
-Create and manage user profile details
+Create and manage user profile details for all company
 
 .. image:: images/employee_setup.PNG
       :alt: Employee setup overview
 
+View basic information of all employee at the left-side table list. 
+Check each employee personal details, employment details, calendar, working hour, leave entitlement, employee role & emergency contact, family information and education certification at right-side column.
+Find specific employee through the searchbar and filter function. 
+Administrator able to change user profile picture by clicking on the camera icon. 
+Change employee status from Active to Inactive or vice versa at the toggle button under Employee Status toggle button.
+There have few features when the Edit Mode is toggle ON:
+
+1. Edit Personal Details
+ Employee full name, personal & work email address and NRIC is mandatory to fill up before save. 
+ Others personal details is allow to leave empty and let employee to fill up by their own.
+ 
+ NOTE:
+  Birthdate, NRIC, gender, nationality and race is not allowed to edit by employee. Only administrator have the rights to edit them.
+
+2. Edit Employment Details
+3. Assign Calendar, Working Hour & Leave Entitlement 
+4. Assign Employee Role
+5. Edit Emergency Contact, Family Information, Education & Certification
 
 Role Management
 ***************
@@ -259,9 +277,22 @@ NOTE:
 
 Reports
 *******
-Produce reports for individual and group. Simply select report & leave types, then proceed with selected employees
+Produce reports for individual and group. Simply select report & leave types, then proceed with select employee
 
 .. image:: images/report.PNG
       :alt: Report overview
+
+Steps to produce a report table:
+
+1. Select report types
+2. Select leave types to show in a report
+3. To find employee. Filter employee or ID, company, department, branch or cost centre
+4. Tick employee
+5. Click Produce Report button. Select Group By company, department, branch, cost centre or no grouping option
+6. Preview report table for All and other grouped data
+7. Select Save as PDF or CSV for all grouped data at top-right corner table
+8. Click Back To Main button to create another report. Repeat step 1 to 7
+
+
 
 
