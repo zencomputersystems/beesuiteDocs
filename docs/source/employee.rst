@@ -1,13 +1,22 @@
 .. eLeave document employee page
 
-===========================================
-employee
-===========================================
+*********
+Employee
+*********
 
 User Dashboard
 **************
-This page will show the details of user leave application and latest announcement posted by admin. 
-User's annual, replacement, medical leave balance & upcoming holidays information will show in this page too.
+Dashboard page show the latest announcement posted by admin. 
+Check the user's annual, replacement, medical leave balance and upcoming holidays information here. 
+User can see their own long leave reminder for more than or equal to 5 days. 
+View and request cancel for user leave application. Simply click on the status (Approved/Pending/Rejected) and fill up the cancel reason in the pop-up to request cancellation.
+Cancelled leave application is not allowed to submit cancel request again.
+
+.. image:: images/user_dashboard_superior.png
+      :alt: Superior dashboard overview
+
+NOTE:
+ Only superior have the rights to view and take action on the My Tasks content. This content is hidden from the normal user login.
 
 Profile
 *******

@@ -11,10 +11,10 @@ Welcome to eLeave documentation
 
 .. toctree::
 
-   first time login
+   first_time_login
    login
-   reset password
-   forgot password
+   reset_password
+   forgot_password
    administration
    employee
 
