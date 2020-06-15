@@ -170,17 +170,57 @@ Administrator able to change user profile picture by clicking on the camera icon
 Change employee status from Active to Inactive or vice versa at the toggle button under Employee Status toggle button.
 There have few features when the Edit Mode is toggle ON:
 
-1. Edit Personal Details
+1. Add New Employee
+ Click on the add icon at the employee list table.
+ From the slide-in menu, there have two methods to add new employee:
+ 
+ - By Individual
+  Fill up all the mandatory field which is company, new employee name, email, employee ID and hired date. 
+  Then, click Add button to save this new employee basic information.
+
+  .. image:: images/employee_setup_add_indi.PNG
+      :alt: Add new employee by individual
+      :width: 300
+
+ - By Bulk
+  Download the csv template by clicking on the below 'here' link. 
+  Fill up all the employees details and save the csv template. 
+  Click on the Choose File button to add the saved file or open folder and drag saved csv file to the dropzone.
+  Then, click on the Upload File button to complete the bulk import process.
+
+  .. image:: images/employee_setup_add_bulk.PNG
+      :alt: Add new employee by bulk
+      :width: 300
+
+2. Edit Personal Details
  Employee full name, personal & work email address and NRIC is mandatory to fill up before save. 
  Others personal details is allow to leave empty and let employee to fill up by their own.
  
  NOTE:
   Birthdate, NRIC, gender, nationality and race is not allowed to edit by employee. Only administrator have the rights to edit them.
 
-2. Edit Employment Details
-3. Assign Calendar, Working Hour & Leave Entitlement 
-4. Assign Employee Role
-5. Edit Emergency Contact, Family Information, Education & Certification
+3. Edit Employment Details
+ Company selection and reporting is mandatory to fill up before save.
+ Employee only allow to edit their own bank account name, account number, EPF number and income tax number. 
+ Others employment details information needed to be completed by administrator.
+
+4. Assign Calendar, Working Hour & Leave Entitlement 
+ Calendar profile, working hour profile & leave entitlement is mandatory to assign by administrator before save.
+
+5. Assign Employee Role
+ Employee role is compulsory to assign before save.
+
+6. Edit Emergency Contact, Family Information, Education & Certification
+ All the field here is optional for administrator. Employee have the rights to edit all the field here in their profile.
+ But personal details mandatory field must be completed before save the details here.
+
+7. Delete employee permanently
+ Click on the trash icon at the unwanted employee in the table and press confirm delete at the pop-up.
+ That employee will be permanently removed from the list and the employee data will be erased from database.
+
+ NOTE: 
+  To temporarily disable the employee from login to the profile.
+  Simply toggle the employee status to Inactive and the data will be kept in the database.
 
 Role Management
 ***************
