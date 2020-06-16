@@ -15,7 +15,7 @@ Administrator able to manage announcement by create, edit and delete features.
 
 1. Create announcement
 
-Click the Create New button to write new announcement.
+Click on the Create New button to write new announcement.
 
 
 .. image:: images/create_announcement.png
@@ -24,7 +24,7 @@ Click the Create New button to write new announcement.
 
 2. Edit announcement
 
-Click the edit icon of the selected announcement to do the changes.
+Click on the edit icon of the selected announcement to do the changes.
 
 .. image:: images/edit_announcement.png
       :alt: Edit announcement
@@ -32,7 +32,7 @@ Click the edit icon of the selected announcement to do the changes.
 
 3. Delete 
 
-Click the delete icon to remove unwanted announcement.
+Click on the delete icon to remove unwanted announcement.
 
 
 Leave Setup
@@ -45,13 +45,34 @@ Create specific public holiday and rest day for employee.
 .. image:: images/calendar_profile.png
       :alt: Calendar profile overview
 
-There have few features as listed here:
+Toggle Edit Mode to ON to create or edit calendar profile. There have few features as listed here:
 
-1. Create new calendar
+1. Create new calendar profile
+ Click on the add icon at the calendar profile column. Fill up the mandatory calendar profile name in the slide-in menu. 
+ Others field is optional. Click create to save as new calendar profile.
+
+ NOTE: 
+  Tick set as default calendar profile will replaced the original calendar profile.
+
 2. Edit calendar profile name, rest day & public holiday
+ When the Edit Mode is toggled ON, simply edit calendar profile name, change rest day and public holiday. 
+ All changed data will be saved when toggle OFF Edit Mode.
+
 3. Delete calendar profile
+ Click on the trash icon at the calendar profile column to delete unwanted calendar profile permanently.
+
 4. Assign user by using drag & drop individual or bulk
+ - To move only one employee
+  Drag an employee from the assigned employee card and drop it to another calendar profile card.
+  The assigned employee list is updated after dropped.
+
+ - To move multiple employee
+  Select or tick multiple of employee and click on the ellipses (three vertical dots) icon. 
+  Move all the selected employee to another selected calendar profile.
+ 
 5. Set as new default calendar profile
+ The shaded star icon is represented current default calendar profile.
+ To change or replace current calendar profile. Click on the unshaded star icon and click Yes button in the confirmation pop-up.
 
 
 Working Hour Profile Setup
@@ -64,11 +85,28 @@ Create office working hour for employee
 There have few features can be used after toggle Edit Mode to ON as listed here:
 
 1. Create new working hour profile
-2. Edit working hour profile name, working hour (full day, half day, quarter day)
-3. Delete working hour profile
-4. Assign user to desired profile by using drag & drop individual or bulk
-5. Set as new default working hour profile
+ Click at the add icon then fill up the mandatory working hour profile name and description. Enter start and end working hour.
+ If the working hour is equal to 8 hours, the half day and quarter day working hour will filled up automatically. Then click on Create button to complete.
 
+ NOTE:
+  Tick set as default working hour profile will replaced current default working hour profile.
+
+2. Edit working hour profile name, working hour (full day, half day, quarter day)
+ Select working hour profile name. Click on the edit icon and modify the field in the slide-in menu. Click on Update button to saved.
+
+3. Delete working hour profile
+ Select working hour profile name. Click on the trash icon to delete unwanted working hour profile.
+
+4. Assign employee to desired profile by using drag & drop individual or bulk
+ - Move one employee
+  To move only one employee. Drag the employee card and drop it to another working hour profile.
+
+ - Move multiple employees
+  Select or tick multiple employee that wanted to move to a same profile. Click on ellipses (three vertical dots) icon and select working hour profile to assign in it.
+
+5. Set as new default working hour profile
+ Select working hour profile name. 
+ Select unshaded star icon and click Yes to confirm replacement of current working hour profile.
 
 Leave Entitlement Setup
 =======================
