@@ -223,12 +223,46 @@ There have few features when the Edit Mode is toggle ON:
  - By Bulk
   Download the csv template by clicking on the below 'here' link. 
   Fill up all the employees details and save the csv template. 
+  The template column consists of:
+
+  - STAFF_EMAIL*
+  - STAFF_ID*
+  - FULLNAME*
+  - NICKNAME
+  - NRIC
+  - DOB
+  - GENDER
+  - MOBILE_NUMBER
+  - WORK_NUMBER
+  - MARITAL_STATUS
+  - ADDRESS
+  - POSTCODE
+  - CITY
+  - STATE
+  - COUNTRY
+  - MANAGER_EMAIL
+  - DESIGNATION
+  - DEPARTMENT
+  - COST_CENTRE
+  - BRANCH
+  - DIVISION
+  - SECTION
+  - COMPANY*
+  - JOIN_DATE*
+  - CONFIRMATION_DATE
+  - RESIGNATION_DATE
+
   Click on the Choose File button to add the saved file or open folder and drag saved csv file to the dropzone.
   Then, click on the Upload File button to complete the bulk import process.
 
   .. image:: images/employee_setup_add_bulk.PNG
       :alt: Add new employee by bulk
       :width: 300
+
+  NOTE:
+   STAFF_EMAIL*, STAFF_ID*, FULLNAME*, COMPANY* and JOIN_DATE* in CSV template is mandatory to fill up before upload. 
+   Please make sure the uppercase and lowercase of the company name is correct. All date format is required in dd-mm-yyyy.
+   
 
 2. Edit Personal Details
  Employee full name, personal & work email address and NRIC is mandatory to fill up before save. 
