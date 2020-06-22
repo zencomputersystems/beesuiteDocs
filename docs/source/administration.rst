@@ -240,7 +240,7 @@ There have few features when the Edit Mode is toggle ON:
   - CITY
   - STATE
   - COUNTRY
-  - MANAGER_EMAIL
+  - MANAGER_EMAIL*
   - DESIGNATION
   - DEPARTMENT
   - COST_CENTRE
@@ -260,7 +260,7 @@ There have few features when the Edit Mode is toggle ON:
       :width: 300
 
   NOTE:
-   STAFF_EMAIL*, STAFF_ID*, FULLNAME*, COMPANY* and JOIN_DATE* in CSV template is mandatory to fill up before upload. 
+   STAFF_EMAIL*, STAFF_ID*, FULLNAME*, MANAGER_EMAIL*, COMPANY* and JOIN_DATE* in CSV template is mandatory to fill up before upload.
    Please make sure the uppercase and lowercase of the company name is correct. All date format is required in dd-mm-yyyy.
    
 
