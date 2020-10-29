@@ -22,10 +22,12 @@ How to clock-in and clock out
 .. image:: images/main_page.png
       :alt: Main Page
       :width: 300
+      :align: center
 
 .. image:: images/main_page_clockin.png
       :alt: Main Page before clock in
       :width: 300
+      :align: center
 
 .. note::  Please contact HR if you can't find your client list / project list / contract list.
 
@@ -36,6 +38,7 @@ How to clock-in and clock out
 .. image:: images/main_page_clockout.png
       :alt: Main Page after clock in
       :width: 300
+      :align: center
 
 4. Click "Clock out" to clockout. Remember to update your activity list before clockout if required.
 
@@ -45,12 +48,14 @@ Check my historical clocked in
 .. image:: images/history_page.png
       :alt: History page
       :width: 300
+      :align: center
 
 2. If you want to add/edit/delete activity on shown clockin history, tap on target clocked in card then it will lead you to below page.
 
 .. image:: images/edit_history_page.png
       :alt: Edit history page
       :width: 300
+      :align: center
 
 
 
@@ -65,6 +70,7 @@ There is 2 type of report which is attendance report and activities report. To g
 .. image:: images/report_page.png
       :alt: Report page
       :width: 300
+      :align: center
 
 
 Forget clocked in or forget to clock out
