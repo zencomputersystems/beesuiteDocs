@@ -12,6 +12,7 @@ How to clock-in and clock out
 
 1. Ensure you are in main page. 
 2. Configure your job task before clock-in.
+
 * Select job type (Office / Site / Home / Others) - Madatory 
 * Select client
 * Select project
