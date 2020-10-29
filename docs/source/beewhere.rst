@@ -53,13 +53,18 @@ Check my historical clocked in
 
 
 
-Generate my clocked in report
+Generate reports
 =============================
-Generate my clocked in report. Check my historical clocked in
+There is 2 type of report which is attendance report and activities report. To generate it:
+1. Ensure you are in report page
+2. Choose your report type either attendance or activities
+3. Choose your duration either weekly, monthly, yearly or custom date. 
+4. Click "Show" to generate the report
 
-Generate my activities report
-=============================
-Generate my activities report. Check my historical clocked in
+.. image:: images/report_page.png
+      :alt: Report page
+      :width: 200
+
 
 Forget clocked in or forget to clock out
 ========================================
