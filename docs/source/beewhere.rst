@@ -45,6 +45,7 @@ How to clock-in and clock out
 Check my historical clocked in
 ==============================
 1. Ensure you are in History page.
+
 .. image:: images/history_page.png
       :alt: History page
       :width: 300
