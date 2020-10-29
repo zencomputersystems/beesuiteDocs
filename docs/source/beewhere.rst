@@ -7,7 +7,12 @@ BeeWhere
 Clock in & Clock out flow
 *************************
 
-Clock in & Clock out flowClock in & Clock out flowClock in & Clock out flowClock in & Clock out flow
+1. Ensure you are in main page
+
+.. image::main_page.png
+      :alt: Main Page
+
+
 
 How to clock-in and clock out
 =============================
