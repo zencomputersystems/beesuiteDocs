@@ -7,10 +7,18 @@ BeeWhere
 Clock in & Clock out flow
 *************************
 
-1. Ensure you are in main page
-
+1. Ensure you are in main page. 
+2. Configure your job task before clock-in
+ # Select job type (Office / Site / Home / Others) - Madatory 
+ # Select client
+ # Select project
+ # Select contract
+ # Fill up your to do list - Must press enter to add task
+ 
 .. image::main_page.png
       :alt: Main Page
+
+
 
 
 
