@@ -21,7 +21,7 @@ Clock in & Clock out flow
 .. image::images/main_page_clockin.png
       :alt: Main Page before clock in
 
-
+.. note::  Please contact HR if you can't find your client list / project list / contract list.
 
 
 
