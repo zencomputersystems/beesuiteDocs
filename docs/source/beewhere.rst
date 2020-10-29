@@ -44,6 +44,7 @@ How to clock-in and clock out
 
 Check my historical clocked in
 ==============================
+
 1. Ensure you are in History page.
 
 .. image:: images/history_page.png
@@ -62,6 +63,7 @@ Check my historical clocked in
 
 Generate reports
 =============================
+
 There is 2 type of report which is attendance report and activities report. To generate it:
 1. Ensure you are in report page
 2. Choose your report type either attendance or activities
@@ -76,18 +78,70 @@ There is 2 type of report which is attendance report and activities report. To g
 
 Forget clocked in or forget to clock out
 ========================================
-Forget clocked in or forget to clock out.
+
+A request to patch your clockin/clockout time if forgot or unable to clocks.
+
+1. Ensure you are in Support page (More > Support)
+
+.. image:: images/nav_to_support_page.png
+      :alt: Support page navigation
+      :width: 300
+      :align: center
+
+2. Choose "Request" tab
+3. Choose Request Type as "Clock In/Clock Out Request"
+4. Fill up the form accordingly and click "Submit" to sumbit request
+
+.. image:: images/request_clocks.png
+      :alt: Support page (request clocks)
+      :width: 300
+      :align: center
+
 
 Overtime request
 ****************
-fdfdfd
+
+1. Ensure you are in Support page (More > Support)
+
+.. image:: images/nav_to_support_page.png
+      :alt: Support page navigation
+      :width: 300
+      :align: center
+
+2. Choose "Request" tab
+3. Choose Request Type as "Overtime"
+4. Fill up the form accordingly and click "Submit" to sumbit request
+
+.. image:: images/overtime_request.png
+      :alt: Support page (overtime)
+      :width: 300
+      :align: center
+
+
 
 Send feedback
 *************
 
 Give feedback or report any bugs
 ================================
-feedback1 bug1
+
+1. Ensure you are in Support page (More > Support)
+
+.. image:: images/nav_to_support_page.png
+      :alt: Support page navigation
+      :width: 300
+      :align: center
+
+2. Choose "Suggestion" tab
+3. Fill up the form accordingly and click "Submit" to sumbit request
+
+.. image:: images/suggestion.png
+      :alt: Support page (suggestion)
+      :width: 300
+      :align: center
+
+
+
 
 Others
 ******
