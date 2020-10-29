@@ -18,10 +18,10 @@ How to clock-in and clock out
 * Select contract
 * Fill up your to do list - Must press enter to add task
 
-.. image::images/main_page.png
+.. image:: images/main_page.png
       :alt: Main Page
 
-.. image::images/main_page_clockin.png
+.. image:: images/main_page_clockin.png
       :alt: Main Page before clock in
 
 .. note::  Please contact HR if you can't find your client list / project list / contract list.
@@ -30,7 +30,7 @@ How to clock-in and clock out
 
 * You can edit/add/delete your activity list before clockout
 
-..image::images/main_page_clockout.png
+.. image:: images/main_page_clockout.png
       :alt: Main Page after clock in
 
 4. Click "Clock out" to clockout. Remember to update your activity list before clockout if required.
@@ -38,12 +38,12 @@ How to clock-in and clock out
 Check my historical clocked in
 ==============================
 1. Ensure you are in History page.
-..image::images/history_page.png
+.. image:: images/history_page.png
       :alt: History page
 
 2. If you want to add/edit/delete activity on shown clockin history, tap on target clocked in card then it will lead you to below page.
 
-..image::images/edit_history_page.png
+.. image:: images/edit_history_page.png
       :alt: Edit history page
 
 
