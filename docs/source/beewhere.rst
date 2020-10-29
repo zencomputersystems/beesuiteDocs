@@ -148,5 +148,16 @@ Others
 
 Check logged on history
 =======================
-login manaa
 
+Ensure you are in Misc page (More > Misc) then click on "Login Activity"a
+
+.. image:: images/nav_to_misc.png
+      :alt: Navigate to misc page
+      :width: 300
+      :align: center
+
+
+.. image:: images/activity_login.png
+      :alt: Activity log
+      :width: 300
+      :align: center
