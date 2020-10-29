@@ -15,10 +15,10 @@ Clock in & Clock out flow
 * Select contract
 * Fill up your to do list - Must press enter to add task
 
-.. image::main_page.png
+.. image::images/main_page.png
       :alt: Main Page
 
-.. image::main_page_clockin.png
+.. image::images/main_page_clockin.png
       :alt: Main Page before clock in
 
 
