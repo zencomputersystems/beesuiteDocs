@@ -7,17 +7,17 @@ BeeWhere
 Clock in & Clock out flow
 *************************
 
-How to clock-in and clock out
+How to clock in and clock out
 =============================
 
 1. Ensure you are in main page. 
 2. Configure your job task before clock-in.
 
-* Select job type (Office / Site / Home / Others) - Madatory 
+* Select job type (Office / Site / Home / Others) - Mandatory 
 * Select client
 * Select project
 * Select contract
-* Fill up your to do list - Must press enter to add task
+* Fill up your to do list - This is not a required item, but you would need this to track your activities later.
 
 .. image:: images/main_page.png
       :alt: Main Page
@@ -29,7 +29,7 @@ How to clock-in and clock out
       :width: 300
       :align: center
 
-.. note::  Please contact HR if you can't find your client list / project list / contract list.
+.. note::  Don't worry if you don't see any one of the items above, it just means your profile is not configured to use those.
 
 3. Click "Clock In Now" button of your phone to clock in.
 
@@ -40,9 +40,9 @@ How to clock-in and clock out
       :width: 300
       :align: center
 
-4. Click "Clock out" to clockout. Remember to update your activity list before clockout if required.
+4. Click "Clock out" to clockout. Remember to update your activity list before clock out if required.
 
-Check my historical clocked in
+Check my historical clock in
 ==============================
 
 1. Ensure you are in History page.
@@ -52,7 +52,7 @@ Check my historical clocked in
       :width: 300
       :align: center
 
-2. If you want to add/edit/delete activity on shown clockin history, tap on target clocked in card then it will lead you to below page.
+2. If you want to add/edit/delete activity on shown clock in history, tap on target clock in card then it will lead you to the page below.
 
 .. image:: images/edit_history_page.png
       :alt: Edit history page
@@ -64,7 +64,7 @@ Check my historical clocked in
 Generate reports
 =============================
 
-There is 2 type of report which is attendance report and activities report. To generate it:
+There is 2 types of report which is attendance report and activities report. To generate the report:
 1. Ensure you are in report page
 2. Choose your report type either attendance or activities
 3. Choose your duration either weekly, monthly, yearly or custom date. 
@@ -76,10 +76,10 @@ There is 2 type of report which is attendance report and activities report. To g
       :align: center
 
 
-Forget clocked in or forget to clock out
+Forget to clock in or forget to clock out
 ========================================
 
-A request to patch your clockin/clockout time if forgot or unable to clocks.
+A request to patch your clockin/clockout time if you forgot or unable to clock.
 
 1. Ensure you are in Support page (More > Support)
 
@@ -133,7 +133,7 @@ Give feedback or report any bugs
       :align: center
 
 2. Choose "Suggestion" tab
-3. Fill up the form accordingly and click "Submit" to sumbit request
+3. Fill up the form accordingly and click "Submit" to submit request
 
 .. image:: images/suggestion.png
       :alt: Support page (suggestion)
@@ -146,7 +146,7 @@ Give feedback or report any bugs
 Others
 ******
 
-Check logged on history
+Checking activity history
 =======================
 
 Ensure you are in Misc page (More > Misc) then click on "Login Activity"a
