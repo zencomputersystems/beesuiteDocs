@@ -1,10 +1,10 @@
-.. eLeave Document documentation master file, created by
+.. beesuite Document documentation master file, created by
    sphinx-quickstart on Fri May 29 11:42:34 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 ===========================================
-Welcome to eLeave documentation
+Welcome to beesuite documentation
 ===========================================
 
 

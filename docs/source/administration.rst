@@ -1,4 +1,4 @@
-.. eLeave document admin page
+.. beesuite document admin page
 
 ***************
 Administration

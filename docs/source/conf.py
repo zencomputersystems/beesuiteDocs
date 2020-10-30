@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'eLeave Document'
+project = 'beesuite Document'
 copyright = '2020, Ang Ruo Li'
 author = 'Ang Ruo Li'
 

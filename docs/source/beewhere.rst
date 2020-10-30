@@ -1,4 +1,4 @@
-.. eLeave document beewhere page
+.. beesuite document beewhere page
 
 ********
 BeeWhere

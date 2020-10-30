@@ -1,4 +1,4 @@
-.. eLeave document login page
+.. beesuite document login page
 
 ******
 Login
