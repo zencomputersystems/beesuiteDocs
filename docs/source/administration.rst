@@ -485,11 +485,13 @@ Manage request & suggestion from employee
 
 View all the request & suggestion from employee in this page. 
 
-1. Reply For a Suggestion
+- Reply For a Suggestion
+
  Simply check the message and write a comment.
  Then, click on the button of open (will consider to handle / improve), close (handled / improved successfully) or reject (not going to handle / improve).
  
-2. Reply For a Request
+- Reply For a Request
+
  Enter the comment and click on the reject (request is rejected), approve (request is approved) or ask for clarification (request employee to clarify) button.
 
 
