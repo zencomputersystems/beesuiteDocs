@@ -171,7 +171,7 @@ General Leave Policy
 ====================
 Manage tenant leave policy to ensure general information is created in application
 
-.. image:: images/leave_policy.PNG
+.. image:: images/general_leave_policy.PNG
       :alt: General leave policy overview
 
 View assigned employee list and general leave policy configuration by clicking on the company name.
@@ -192,6 +192,18 @@ To enable edit mode, toggle the Edit Mode button at the top-right corner to ON. 
 
 4. Edit General Leave Policy Configuration
  Simply change the general leave policy configuration of the selected company when the Edit Mode is ON. Toggle OFF Edit Mode to save the changes of the configuration.
+
+
+Email Notification Rule
+========================
+Manage selected employee or external email to get email notification when related employee is on leave
+
+.. image:: images/email_notification.PNG
+      :alt: Email notification overview
+
+View who's email is notify when employee is on leave. To edit notify list, simply select the employee by filter from the company and department.
+Tick on the employee and click add icon to add external email (in slide-in menu) which able to receive email when he's on leave. 
+Tick on the new email added or existing employee at the last column, then Submit to save the setting.
 
 
 Employee Setup
@@ -387,6 +399,7 @@ Click on the Submit button to complete year end closing process.
 NOTE:
  If no default closing year is selected, administrator need to wait until the next available closing date as shown below the closing year selection is reached.
 
+
 Reports
 *******
 Produce reports for individual and group. Simply select report & leave types, then proceed with select employee
@@ -404,6 +417,7 @@ Steps to produce a report table:
 6. Preview report table for All and other grouped data
 7. Select Save as PDF or CSV for all grouped data at top-right corner table
 8. Click Back To Main button to create another report. Repeat step 1 to 7
+
 
 Attendance Setup
 *****************
@@ -439,6 +453,29 @@ There have few features of attendance setup when the Edit Mode toggle button is 
 6. After edit the profile, toggle OFF Edit Mode to save.
 
 
+Client Setup
+************
+Create the client profile details with project, contract and the location
+
+.. image:: images/clients.png
+      :alt: Client setup overview
+
+There have few features in this page. Simply click on the client name to see the project name list, contract list & location list at the right-side column.
+To configure the client details, toggle ON the Edit Mode button at the right-top corner. 
+
+1. Create New Client Detail
+ Click on the add icon at the Client Details tab. From the slide-in menu, enter the Client Abbreviation & Name, project details, contract details and also locations.
+ Then, click on the Create New button to save this new client details.
+
+2. Edit/Update Client Detail
+ Click on the pencil icon on the client list, simply edit the details from slide-in menu and click Update button to save the changes.
+
+3. Delete Client Detail
+ Click on the trash icon to remove unwanted client detail from the list.
+
+4. After completed configuration, toggle OFF Edit Mode to go back to view mode.
+ 
+ 
 
 
 

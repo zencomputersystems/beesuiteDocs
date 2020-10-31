@@ -56,7 +56,7 @@ Click on the attachment name to download the uploaded file. Edit certification n
 Click on Attachment button to upload certification (PDF/image). Toggle OFF the Edit Mode to save all the changes.
 
 
-.. image:: images/award.PNG
+.. image:: images/awards.PNG
       :alt: Awards & certification details
 
 

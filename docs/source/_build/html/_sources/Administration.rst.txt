@@ -171,7 +171,7 @@ General Leave Policy
 ====================
 Manage tenant leave policy to ensure general information is created in application
 
-.. image:: images/leave_policy.PNG
+.. image:: images/general_leave_policy.PNG
       :alt: General leave policy overview
 
 View assigned employee list and general leave policy configuration by clicking on the company name.
@@ -192,6 +192,13 @@ To enable edit mode, toggle the Edit Mode button at the top-right corner to ON. 
 
 4. Edit General Leave Policy Configuration
  Simply change the general leave policy configuration of the selected company when the Edit Mode is ON. Toggle OFF Edit Mode to save the changes of the configuration.
+
+Email Notification Rule
+========================
+Manage selected employee or external email to get email notification when related employee is on leave
+
+.. image:: images/email_notification.PNG
+      :alt: Email notification overview
 
 
 Employee Setup
@@ -438,7 +445,12 @@ There have few features of attendance setup when the Edit Mode toggle button is 
 
 6. After edit the profile, toggle OFF Edit Mode to save.
 
+Client Setup
+************
+Create the client profile details with project, contract and the location
 
+.. image:: images/clients.png
+      :alt: Client setup overview
 
 
 
