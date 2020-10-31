@@ -409,7 +409,7 @@ Attendance Setup
 *****************
 Create the attendance profile to assign specific job type & their rights to view certain list.
 
-.. image:: images/attendance.PNG
+.. image:: images/attendance.png
       :alt: Attendance setup overview
 
 There have few features of attendance setup when the Edit Mode toggle button is turned ON.
