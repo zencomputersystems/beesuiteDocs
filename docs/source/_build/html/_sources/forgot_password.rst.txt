@@ -1,4 +1,4 @@
-.. eLeave document forgot password page
+.. beesuite document forgot password page
 
 ***************
 Forgot Password

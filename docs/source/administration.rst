@@ -405,6 +405,44 @@ Steps to produce a report table:
 7. Select Save as PDF or CSV for all grouped data at top-right corner table
 8. Click Back To Main button to create another report. Repeat step 1 to 7
 
+Attendance Setup
+*****************
+Create the attendance profile to assign specific job type & their rights to view certain list.
+
+.. image:: images/attendance.PNG
+      :alt: Attendance setup overview
+
+There have few features of attendance setup when the Edit Mode toggle button is turned ON.
+
+1. Create New Profile
+ Click on the add icon at the Profile Details tab. From the slide-in menu, enter the new attendance profile name & its description. Then, click Create button to complete creation.
+
+2. Edit Profile
+ Click on the pencil icon in the profile list to edit the Profile Name & Description. Simply toggle the Enable/Disable button for each job type (Office / Site / Home / Others) to enable/disable job type show in the employee's beewhere application. 
+ Configured the client list, project list, contract list or activity list to be show in beewhere by tick or untick on the setting.
+
+3. Delete Profile
+ Click on the trash icon to delete profile from the list.
+ 
+ NOTE:
+  Please re-assign all the employees under that (to be delete) profile before delete. 
+
+4. Set as New Default Attendance Profile
+ Shaded star icon is the current default profile. 
+ You may change it by clicking on other non-shaded star icon from the list and click Yes button in the confirmation pop-up to replace original default profile.
+
+5. Re-assign Employee to another Attendance Profile
+ Select a profile with assigned employee. 
+ To move only one employee, drag at the nine-dots icon of employee name box and drop into the attendance profile box you wish to;
+ To move multiple of employees, tick on the employees and click on ellipses(three-dots) icon then select the attendance profile you wish to.
+
+6. After edit the profile, toggle OFF Edit Mode to save.
+
+
+
+
+
+
 
 
 

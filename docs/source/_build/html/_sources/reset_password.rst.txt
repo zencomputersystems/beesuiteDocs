@@ -1,4 +1,4 @@
-.. eLeave document reset password page
+.. beesuite document reset password page
 
 ***************
 Reset Password

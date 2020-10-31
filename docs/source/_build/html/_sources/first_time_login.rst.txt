@@ -1,4 +1,4 @@
-.. eLeave first time login page
+.. beesuite first time login page
 
 ****************
 First Time Login
