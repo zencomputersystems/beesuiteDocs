@@ -457,7 +457,7 @@ Client Setup
 ************
 Create the client profile details with project, contract and the location
 
-.. image:: images/clients.png
+.. image:: images/client.PNG
       :alt: Client setup overview
 
 There have few features in this page. Simply click on the client name to see the project name list, contract list & location list at the right-side column.
@@ -474,6 +474,25 @@ To configure the client details, toggle ON the Edit Mode button at the right-top
  Click on the trash icon to remove unwanted client detail from the list.
 
 4. After completed configuration, toggle OFF Edit Mode to go back to view mode.
+
+
+Support Center
+**************
+Manage request & suggestion from employee
+
+.. image:: images/support.png
+      :alt: Support center overview
+
+View all the request & suggestion from employee in this page. 
+
+1. Reply For a Suggestion
+ Simply check the message and write a comment.
+ Then, click on the button of open (will consider to handle / improve), close (handled / improved successfully) or reject (not going to handle / improve).
+ 
+2. Reply For a Request
+ Enter the comment and click on the reject (request is rejected), approve (request is approved) or ask for clarification (request employee to clarify) button.
+
+
  
  
 
