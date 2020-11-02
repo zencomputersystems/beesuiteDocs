@@ -488,11 +488,11 @@ View all the request & suggestion from employee in this page.
 - Reply For a Suggestion
 
  Simply check the message and write a comment.
- Then, click on the button of open (will consider to handle / improve), close (handled / improved successfully) or reject (not going to handle / improve).
+ Then, click on the button of update (will consider to handle / improve), reject (not going to handle / improve) or close (handled / improved successfully).
  
 - Reply For a Request
 
- Enter the comment and click on the reject (request is rejected), approve (request is approved) or ask for clarification (request employee to clarify) button.
+ Enter the comment and click on the reject (reject the request), ask for clarification (request employee to clarify) or approve (approve the request) button.
 
 
  
