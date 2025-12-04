@@ -77,7 +77,7 @@ There is 2 types of report which is attendance report and activities report. To 
 
 
 Forget to clock in or forget to clock out
-========================================
+===============================================
 
 A request to patch your clockin/clockout time if you forgot or unable to clock.
 
@@ -147,7 +147,7 @@ Others
 ******
 
 Checking activity history
-=======================
+=========================
 
 Ensure you are in Misc page (More > Misc) then click on "Login Activity"a
 

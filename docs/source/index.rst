@@ -18,6 +18,8 @@ Welcome to beesuite documentation
    administration
    employee
    beewhere
+   terms_and_conditions
+   privacy_policy
 
 
 
