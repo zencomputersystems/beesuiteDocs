@@ -1,6 +1,6 @@
 # beesuiteDocs
 
-Documentation for beesuite, an HR software suite (Employee Lifecycle Suite) that provides tools for employee management, login, administration, and location tracking.
+Documentation for beeSuite, an HR software suite (Employee Lifecycle Suite) that provides tools for employee management, login, administration, and location tracking.
 
 ## Overview
 
@@ -96,4 +96,4 @@ beesuiteDocs/
 
 ## Contact
 
-For questions or support, please contact [contact information].
+For questions or support, please contact admin@beesuite.app.

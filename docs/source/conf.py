@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'beesuite Document'
-copyright = '2020, Ang Ruo Li'
-author = 'Ang Ruo Li'
+project = 'beeSuite'
+copyright = '2025, Zen Computer Systems Sdn Bhd'
+author = 'Ang Ruo Li, Khairulnizam Hasan'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '1.0RC1'
 
 
 # -- General configuration ---------------------------------------------------

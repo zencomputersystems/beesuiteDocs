@@ -7,7 +7,7 @@ Terms & Conditions
 Introduction
 ============
 
-These Terms & Conditions govern your use of beesuite, an HR software suite provided by [Company Name]. By accessing or using our services, you agree to be bound by these terms. If you disagree with any part of these terms, please do not use our services.
+These Terms & Conditions govern your use of beesuite, an HR software suite provided by Zen Computer Systems Sdn Bhd. By accessing or using our services, you agree to be bound by these terms. If you disagree with any part of these terms, please do not use our services.
 
 Use of Service
 ==============
@@ -30,7 +30,7 @@ Your privacy is important to us. Please refer to our Privacy Policy for details 
 Limitation of Liability
 =======================
 
-beesuite shall not be liable for any indirect, incidental, or consequential damages arising from your use of the service.
+beeSuite shall not be liable for any indirect, incidental, or consequential damages arising from your use of the service.
 
 Changes to Terms
 ================
@@ -40,6 +40,6 @@ We reserve the right to modify these terms at any time. Continued use of the ser
 Contact Information
 ===================
 
-For questions about these terms, please contact [contact information].
+For questions about these terms, please contact admin@beesuite.app.
 
-*Last updated: [Date]*
+*Last updated: 4th December 2025*

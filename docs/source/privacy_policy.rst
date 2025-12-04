@@ -67,4 +67,4 @@ Contact Us
 
 For privacy-related questions, please contact admin@beesuite.app.
 
-*Last updated: [Date]*
+*Last updated: 4th December 2025*
